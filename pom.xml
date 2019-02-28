@@ -12,7 +12,11 @@
 	<artifactId>java-traders</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>java-traders</name>
-	<description>Demo project for Spring Boot</description>
+	<description>java medium exercises</description>
+	<scm>
+		<connection>scm:git:ssh://git@bitbucket.org:cAhmad/java-traders.git</connection>
+		<tag>HEAD</tag>
+	</scm>
 
 	<properties>
 		<java.version>1.8</java.version>
